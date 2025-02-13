@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/C_PLUS_PLUS/C_PLUS_PLUS.iml" filepath="$PROJECT_DIR$/C_PLUS_PLUS/C_PLUS_PLUS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_OOP/JAVA_OOP.iml" filepath="$PROJECT_DIR$/JAVA_OOP/JAVA_OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP.iml" filepath="$PROJECT_DIR$/OOP.iml" />
     </modules>
   </component>
