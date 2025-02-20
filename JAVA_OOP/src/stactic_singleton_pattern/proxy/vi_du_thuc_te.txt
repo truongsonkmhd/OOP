@@ -1,0 +1,12 @@
+-Proxy Pattern (Mẫu Ủy Quyền) là một mẫu thiết kế thuộc nhóm cấu trúc (Structural Pattern),
+cho phép một đối tượng đóng vai trò như một đại diện (proxy) để kiểm soát truy cập đến một đối tượng khác.
+
+-Ví dụ thực tế: Xếp, Thư Ký và Dev
+Giả sử trong công ty, khi một Dev muốn gửi yêu cầu tăng lương, họ không thể trực tiếp gửi yêu cầu đến Xếp
+mà phải thông qua Thư Ký. Thư Ký sẽ xem xét yêu cầu, nếu hợp lệ thì chuyển đến Xếp, nếu không thì từ chối luôn.
+
+-Trong ví dụ này:
+
+-Dev là đối tượng muốn gửi yêu cầu (Client).
+-Thư Ký là Proxy, chịu trách nhiệm lọc yêu cầu trước khi chuyển đến Xếp.
+-Xếp là đối tượng thực sự xét duyệt yêu cầu tăng lương (Real Subject).
