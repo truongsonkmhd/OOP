@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Function;
 
-public class PriceCalculator {
+public class_oop PriceCalculator {
     private static final Map<String, Function<Integer, Float>> getPriceStrategies = new HashMap<>();
 
     static {

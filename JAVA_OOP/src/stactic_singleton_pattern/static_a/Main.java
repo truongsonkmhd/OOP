@@ -1,6 +1,6 @@
 package stactic_singleton_pattern.static_a;
 
-public class Main {
+public class_oop Main {
     public static void main(String[] args) {
         HinhVuong hv1 = new  HinhVuong(1);
         HinhVuong hv2 = new HinhVuong(2);

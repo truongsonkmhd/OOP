@@ -1,6 +1,6 @@
 package stactic_singleton_pattern.singleton_a;
 
-public class Main {
+public class_oop Main {
     public static void main(String[] args) {
         Singleton se = Singleton.getInstance();
         se .increaseX();

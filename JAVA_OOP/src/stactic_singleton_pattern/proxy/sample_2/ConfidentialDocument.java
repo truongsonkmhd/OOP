@@ -1,7 +1,7 @@
 package stactic_singleton_pattern.proxy.sample_2;
 
 // 2. Lớp thực tế (Real Subject): Tài liệu quan trọng
-class ConfidentialDocument implements Document {
+class_oop ConfidentialDocument implements Document {
     private String content;
 
     public ConfidentialDocument(String content) {

@@ -1,7 +1,7 @@
 package stactic_singleton_pattern.facade_pattern.thiet_bị_thong_minh;
 
 // Lớp điều khiển điều hòa
-class AirConditioner {
+class_oop AirConditioner {
     public void turnOn() {
         System.out.println("Air Conditioner is ON.");
     }

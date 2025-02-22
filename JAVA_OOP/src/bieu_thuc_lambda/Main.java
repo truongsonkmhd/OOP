@@ -1,6 +1,6 @@
 package bieu_thuc_lambda;
 
-public class Main {
+public class_oop Main {
     public static void main(String[] args) {
         Animal meo1 = new Cat();
         meo1.speak("go","go");

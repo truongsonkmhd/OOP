@@ -1,7 +1,7 @@
 package tinh_truu_tuong;
 
-// class extends từ abstract class
-public class SampleExtendClass extends SampleAbstractClass {
+// class_oop extends từ abstract class_oop
+public class_oop SampleExtendClass extends SampleAbstractClass {
     @Override // Ghi đè phương thức abstract method
     public void sayHello() {
         System.out.println("Hello, Tay Java");

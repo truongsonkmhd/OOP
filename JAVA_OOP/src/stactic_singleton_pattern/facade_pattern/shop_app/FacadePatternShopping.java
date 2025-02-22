@@ -1,6 +1,6 @@
 package stactic_singleton_pattern.facade_pattern.shop_app;
 
-public class FacadePatternShopping {
+public class_oop FacadePatternShopping {
     public static void main(String[] args) {
         OnlineShoppingFacade shoppingFacade = new OnlineShoppingFacade();
 

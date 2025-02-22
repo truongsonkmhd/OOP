@@ -1,0 +1,1 @@
+package stactic_singleton_pattern.fatory;

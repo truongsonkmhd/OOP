@@ -1,4 +1,4 @@
 package stactic_singleton_pattern.proxy;
 
-public class main {
+public class_oop main {
 }

@@ -1,7 +1,7 @@
 package stactic_singleton_pattern.proxy.sample_1;
 
 // 3. Proxy: Thư Ký kiểm tra yêu cầu trước khi gửi cho Xếp
-class SecretaryProxy implements SalaryRequest {
+class_oop SecretaryProxy implements SalaryRequest {
     private Boss boss;
 
     public SecretaryProxy(Boss boss) {

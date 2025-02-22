@@ -1,6 +1,6 @@
 package tren_lop;
 
-class NhanVienTiepThi extends NhanVien {
+class_oop NhanVienTiepThi extends NhanVien {
     private double doanhSo;
     private double hueHong;
 

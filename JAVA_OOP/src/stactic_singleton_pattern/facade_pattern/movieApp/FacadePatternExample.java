@@ -1,6 +1,6 @@
 package stactic_singleton_pattern.facade_pattern.movieApp;
 
-public class FacadePatternExample {
+public class_oop FacadePatternExample {
     public static void main(String[] args) {
         MovieBookingFacade bookingFacade = new MovieBookingFacade();
 

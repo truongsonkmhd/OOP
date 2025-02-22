@@ -1,7 +1,7 @@
 package stactic_singleton_pattern.facade_pattern.thiet_bị_thong_minh;
 
 // Lớp điều khiển TV
-class TV {
+class_oop TV {
     public void turnOn() {
         System.out.println("TV is ON.");
     }
