@@ -1,7 +1,7 @@
 package stactic_singleton_pattern.proxy.sample_2;
 
 // 3. Proxy kiểm soát quyền truy cập vào tài liệu
-class_oop DocumentProxy implements Document {
+class DocumentProxy implements Document {
     private ConfidentialDocument document;
     private String userRole; // Chức vụ của người dùng
 

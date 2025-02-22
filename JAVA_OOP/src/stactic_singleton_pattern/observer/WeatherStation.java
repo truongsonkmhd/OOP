@@ -1,6 +1,6 @@
 package stactic_singleton_pattern.observer;
 
-public class_oop WeatherStation {
+public class WeatherStation {
     public static void main(String[] args) {
         // Tạo đối tượng WeatherData (Subject)
         WeatherData weatherData = new WeatherData();

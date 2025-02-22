@@ -1,6 +1,6 @@
 package tren_lop;
 
-class_oop TruongPhong extends NhanVien {
+class TruongPhong extends NhanVien {
     private double luongTrachNhiem;
 
     public TruongPhong(String maNV, String hoTen, double luong, double luongTrachNhiem) {

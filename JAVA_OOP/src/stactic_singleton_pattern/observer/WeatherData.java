@@ -3,7 +3,7 @@ package stactic_singleton_pattern.observer;
 import java.util.ArrayList;
 import java.util.List;
 
-public class_oop WeatherData implements Subject {
+public class WeatherData implements Subject {
     private List<Observer> observers;
     private float temperature;
     private float humidity;

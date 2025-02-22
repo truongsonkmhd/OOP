@@ -1,7 +1,7 @@
 package interface_practive.da_ke_thua;
 
 // class_oop UserServiceImpl implements (thực thi) interface UserService và CommonService
-public class_oop UserServiceImpl implements UserService, CommonService {
+public class UserServiceImpl implements UserService, CommonService {
 
     @Override
     public int addUser(User user) {

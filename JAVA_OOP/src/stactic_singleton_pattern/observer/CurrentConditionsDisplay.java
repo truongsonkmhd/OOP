@@ -1,6 +1,6 @@
 package stactic_singleton_pattern.observer;
 
-public class_oop CurrentConditionsDisplay implements Observer {
+public class CurrentConditionsDisplay implements Observer {
     private float temperature;
     private float humidity;
     private Subject weatherData;

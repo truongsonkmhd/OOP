@@ -1,7 +1,7 @@
 package stactic_singleton_pattern.fatory.factory_mothod_pattern;
 
 // Creator abstract class_oop
-abstract class_oop AnimalFactory {
+abstract class AnimalFactory {
     // Factory Method (abstract)
     public abstract Animal createAnimal();
 

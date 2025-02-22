@@ -1,6 +1,6 @@
 package stactic_singleton_pattern.prototype_a.prative2;
 
-public class_oop CloneableDemo {
+public class CloneableDemo {
     public static void main(String[] args) {
         // Tạo một đối tượng gốc
         Person originalPerson = new Person("Alice", 25);

@@ -1,6 +1,6 @@
 package stactic_singleton_pattern.facade_pattern.thiet_bị_thong_minh;
 
-class_oop SmartHomeFacade {
+class SmartHomeFacade {
     private Light light;
     private AirConditioner airConditioner;
     private TV tv;

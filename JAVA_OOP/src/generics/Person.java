@@ -1,6 +1,6 @@
 package generics;
 
-public class_oop Person<T,A> {
+public class Person<T,A> {
     private T id ;
     private A age;
     public Person(T id, A age){

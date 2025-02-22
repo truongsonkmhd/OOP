@@ -1,6 +1,6 @@
 package bieu_thuc_lambda;
 
-public class_oop Cat implements Animal{
+public class Cat implements Animal{
 
     @Override
     public void speak(String lastName, String firstName) {

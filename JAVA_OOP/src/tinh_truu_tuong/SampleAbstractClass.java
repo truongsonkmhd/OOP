@@ -1,7 +1,7 @@
 package tinh_truu_tuong;
 
 // class_oop abstract
-public abstract class_oop SampleAbstractClass {
+public abstract class SampleAbstractClass {
 
     // abstract method
     public abstract void sayHello(); // abstract method has not body

@@ -1,6 +1,6 @@
 package stactic_singleton_pattern.facade_pattern.shop_app;
 
-class_oop OnlineShoppingFacade {
+class OnlineShoppingFacade {
     private ProductSearch productSearch;
     private Inventory inventory;
     private PaymentGateway paymentGateway;

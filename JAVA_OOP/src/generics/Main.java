@@ -1,6 +1,6 @@
 package generics;
 
-public class_oop Main {
+public class Main {
     public static void main(String[] args) {
         Person<Integer, Integer> person1 = new Person<>(1,20);
         System.out.println("Thong tin person1" + person1.getId() + "-" +person1.getAge());

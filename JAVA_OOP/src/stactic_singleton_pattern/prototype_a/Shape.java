@@ -1,6 +1,6 @@
 package stactic_singleton_pattern.prototype_a;
 
-class_oop Shape implements Prototype {
+class Shape implements Prototype {
     private String type;
 
     public Shape(String type) {

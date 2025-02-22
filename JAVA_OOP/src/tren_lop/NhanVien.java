@@ -1,6 +1,6 @@
 package tren_lop;
 
-abstract class_oop NhanVien {
+abstract class NhanVien {
     protected String maNV;
     protected String hoTen;
     protected double luong;

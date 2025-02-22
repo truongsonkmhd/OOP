@@ -1,6 +1,6 @@
 package stactic_singleton_pattern.prototype_a.prative2;
 
-class_oop Person implements Cloneable {
+class Person implements Cloneable {
     private String name;
     private int age;
 

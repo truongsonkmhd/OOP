@@ -1,6 +1,6 @@
 package stactic_singleton_pattern.facade_pattern.thiet_bị_thong_minh;
 
-public class_oop FacadePatternSmartHome {
+public class FacadePatternSmartHome {
     public static void main(String[] args) {
         SmartHomeFacade smartHome = new SmartHomeFacade();
 

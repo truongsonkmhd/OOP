@@ -1,6 +1,6 @@
 package stactic_singleton_pattern.prototype_a;
 
-public class_oop PrototypePatternDemo {
+public class PrototypePatternDemo {
     public static void main(String[] args) {
         // Tạo một đối tượng gốc
         Shape circle = new Shape("Circle");

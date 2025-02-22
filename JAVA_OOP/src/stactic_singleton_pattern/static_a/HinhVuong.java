@@ -1,6 +1,6 @@
 package stactic_singleton_pattern.static_a;
 
-public class_oop HinhVuong {
+public class HinhVuong {
     public static int dem = 0;
     public int chieuDai;
 

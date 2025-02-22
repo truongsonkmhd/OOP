@@ -1,6 +1,6 @@
 package stactic_singleton_pattern.singleton_a;
 
-public class_oop Singleton {
+public class Singleton {
     private static Singleton instance = null ;
     public int x;
 

@@ -1,7 +1,7 @@
 package stactic_singleton_pattern.facade_pattern.movieApp;
 
 // Lớp Facade để đơn giản hóa quy trình đặt vé
-class_oop MovieBookingFacade {
+class MovieBookingFacade {
     private SeatChecker seatChecker;
     private PaymentProcessor paymentProcessor;
     private TicketManager ticketManager;
