@@ -11,4 +11,5 @@ public class AnimalFactory {
         return null;
     }
 }
-
+//=> như kia sẽ vi phạm O trong solid (open-close) khi mình muốn thêm 1 thằng thì p sửa hàm
+//=> phải dùng factory_method_pattern

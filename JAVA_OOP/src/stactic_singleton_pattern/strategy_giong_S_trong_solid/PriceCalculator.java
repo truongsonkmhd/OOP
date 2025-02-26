@@ -48,7 +48,7 @@ public class PriceCalculator {
         System.out.println(getPrice(1000, "unknownType"));  // 1000.0 (Default)
     }
 
-    // cách  thông thường :
+    // cách  thông thường : => vi phạm nguyên lý P trong SOLID
 
     private float getPrice2(int originalPrice , String typePromotion){
         if(typePromotion == "preOrder"){

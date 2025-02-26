@@ -1,4 +1,4 @@
-package stactic_singleton_pattern.fatory.factory_mothod_pattern;
+package stactic_singleton_pattern.fatory.factory_method_pattern;
 
 class DogFactory extends AnimalFactory {
     @Override

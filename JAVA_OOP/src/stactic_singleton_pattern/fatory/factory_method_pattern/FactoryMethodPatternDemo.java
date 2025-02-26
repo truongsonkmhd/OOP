@@ -1,4 +1,4 @@
-package stactic_singleton_pattern.fatory.factory_mothod_pattern;
+package stactic_singleton_pattern.fatory.factory_method_pattern;
 
 public class FactoryMethodPatternDemo {
     public static void main(String[] args) {
