@@ -1,6 +1,7 @@
 Dependency Injection (DI) là gì?
 Dependency Injection (DI) là một kỹ thuật trong lập trình nhằm giảm sự phụ thuộc giữa các thành phần trong ứng dụng, giúp code dễ bảo trì, mở rộng và kiểm thử.
-Lợi ích của Dependency Injection
+Lợi ích của Dependency Injection![Uploading image.png…]()
+
 1.Giảm sự phụ thuộc (Loose Coupling): Các lớp không khởi tạo trực tiếp dependencies của chúng mà nhận chúng từ bên ngoài.
 2.Dễ dàng kiểm thử (Testability): Dễ dàng sử dụng các Mock hoặc Stub trong Unit Test.
 3.Tái sử dụng mã nguồn (Reusability): Các thành phần có thể được tái sử dụng mà không cần sửa đổi code bên trong.
